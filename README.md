@@ -125,8 +125,12 @@ streamlit run app.py
 - API-based live data ingestion
 - Policy impact simulation
 
+##🌐 Live Application  
+https://age-transition-intelligence.streamlit.app
+
 ## 👨‍💻 Author
 Himanshu Bhoi
+
 
 
 
