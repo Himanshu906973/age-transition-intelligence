@@ -1,5 +1,4 @@
 # 🎯 Age-Transition Intelligence System (ATIS)
-
 **Age-Transition Intelligence System (ATIS)** is a data-driven analytics and intelligence platform that studies **population age transitions** using **UIDAI Aadhaar enrolment and update data**.  
 The system identifies **age-group shifts, temporal trends, and anomalies** to support **policy planning, social welfare decisions, and demographic forecasting**.
 
@@ -128,6 +127,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 Himanshu Bhoi
+
 
 
 
