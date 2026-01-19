@@ -3,7 +3,6 @@
 **Age-Transition Intelligence System (ATIS)** is a data-driven analytics and intelligence platform that studies **population age transitions** using **UIDAI Aadhaar enrolment and update data**.  
 The system identifies **age-group shifts, temporal trends, and anomalies** to support **policy planning, social welfare decisions, and demographic forecasting**.
 
----
 
 ## 📌 Problem Statement
 
@@ -21,7 +20,6 @@ However, **traditional reporting systems fail to capture dynamic age transitions
 - Detecting unusual or abnormal demographic patterns  
 - Providing interactive, visual, and explainable insights  
 
----
 
 ## 💡 Solution Overview
 
@@ -33,7 +31,6 @@ ATIS transforms raw Aadhaar enrolment data into **actionable intelligence** usin
 - 🧠 Age Transition Index (ATI)  
 - 🎛️ Interactive Streamlit dashboard  
 
----
 
 ## 🗂️ Dataset Used
 
@@ -52,7 +49,6 @@ ATIS transforms raw Aadhaar enrolment data into **actionable intelligence** usin
 - `district_intelligence.csv`
 - `time_trends.csv`
 
----
 
 ## 🧪 Methodology
 
@@ -83,7 +79,6 @@ ATIS transforms raw Aadhaar enrolment data into **actionable intelligence** usin
 - Monthly and yearly trends  
 - Transition flow visualization  
 
----
 
 ## 📊 Data Analysis & Visualisation
 
@@ -97,7 +92,6 @@ ATIS provides:
 
 All visualisations are rendered **inside the notebook and Streamlit app** (no browser dependency for plots).
 
----
 
 ## 🖥️ Dashboard Features (Streamlit)
 
@@ -107,7 +101,6 @@ All visualisations are rendered **inside the notebook and Streamlit app** (no br
 - Dynamic charts and tables  
 - Clean dark UI with custom logo  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -121,7 +114,6 @@ All visualisations are rendered **inside the notebook and Streamlit app** (no br
 | IDE | Jupyter Notebook |
 | Deployment | Streamlit Cloud |
 
----
 
 ## 🚀 How to Run the Project
 streamlit run app.py
@@ -136,6 +128,6 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 Himanshu Bhoi
-B.Tech – Computer Science & Engineering
-Aspiring AI Engineer
+
+
 
